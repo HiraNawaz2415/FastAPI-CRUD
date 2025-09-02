@@ -19,20 +19,16 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Fas
 |  **/home enpoint** | **API CRUD Methods** |
 |-----------|----------------|
 | ![image1](screenshots/fast1.png) |![image2](screenshots/fast2.png) 
-|-----------|----------------|
 | **/create enpoint** | **create msg** |
 |-----------|----------------|
 | ![image1](screenshots/fast3.png) |![image2](screenshots/fast4.png) 
-|-----------|----------------|
 |  **/users enpoint** | **/singleuser endpoint** |
 |-----------|----------------|
 | ![image1](screenshots/fast5.png) |![image2](screenshots/fast6.png) 
-|-----------|----------------|
 |  **/update enpoint** | **update msg** |
 |-----------|----------------|
 | ![image1](screenshots/fast7.png) |![image2](screenshots/fast8.png) 
 | **/delete enpoint** | **schema Image** |
-|-----------|----------------|
 | ![image1](screenshots/fast9.png) |![image2](screenshots/fast10.png) 
 
 
