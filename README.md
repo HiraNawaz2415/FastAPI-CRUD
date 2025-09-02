@@ -16,9 +16,14 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Fas
 
 🌐 ## API Endpoints
 
-**Method**	**Endpoint**	**Description**
-POST	       /create	Create a new person
-GET	        /singleuser/{id}	Get person by ID
-GET         /users	Get all persons
-PUT       	/update/{id}	Update person details
-DELETE	    /delete/{id}	Delete person by ID
+## API Endpoints
+
+| Method | Endpoint           | Description        |
+|--------|--------------------|--------------------|
+| POST   | `/create`          | Create a new person |
+| GET    | `/singleuser/{id}` | Get person by ID   |
+| GET    | `/users`           | Get all persons    |
+| PUT    | `/update/{id}`     | Update person by ID |
+| DELETE | `/delete/{id}`     | Delete person by ID |
+
+
