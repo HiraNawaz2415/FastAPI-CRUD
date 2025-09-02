@@ -14,6 +14,13 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Fas
 
 . Built with FastAPI – super fast and automatic docs (Swagger UI & ReDoc)
 
+## Screenshots
+
+|  /home enpoint # 1 | Prediction # 2|
+|-----------|----------------|
+| ![image1](screenshots/fast1.png) |![image2](screenshots/fast2.png) 
+
+
 
 ## API Endpoints
 
