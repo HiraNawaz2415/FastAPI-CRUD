@@ -15,6 +15,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Fas
 . Built with FastAPI – super fast and automatic docs (Swagger UI & ReDoc)
 
 🌐 ## API Endpoints
+
 **Method**	**Endpoint**	**Description**
 POST	       /create	Create a new person
 GET	        /singleuser/{id}	Get person by ID
