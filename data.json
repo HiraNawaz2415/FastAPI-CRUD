@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "name": "Alice Johnson",
+        "name": "Shifa",
         "age": 25,
         "weight": 58,
         "height": 165
     },
     {
         "id": 2,
-        "name": "Bob Smith",
+        "name": "Naila",
         "age": 30,
         "weight": 72,
         "height": 178
     },
     {
         "id": 3,
-        "name": "Charlie Brown",
+        "name": "Hussan",
         "age": 28,
         "weight": 80,
         "height": 182
     },
     {
         "id": 4,
-        "name": "David Wilson",
+        "name": "Riaz",
         "age": 35,
         "weight": 90,
         "height": 175
     },
     {
         "id": 5,
-        "name": "Eva Martinez",
+        "name": "Issa Noor",
         "age": 22,
         "weight": 55,
         "height": 160
     },
     {
         "id": 6,
-        "name": "Frank Miller",
+        "name": "Fareed Hayat",
         "age": 40,
         "weight": 85,
         "height": 180
