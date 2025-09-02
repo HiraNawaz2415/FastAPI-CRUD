@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "age": 25,
+        "weight": 58,
+        "height": 165
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "age": 30,
+        "weight": 72,
+        "height": 178
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "age": 28,
+        "weight": 80,
+        "height": 182
+    },
+    {
+        "id": 4,
+        "name": "David Wilson",
+        "age": 35,
+        "weight": 90,
+        "height": 175
+    },
+    {
+        "id": 5,
+        "name": "Eva Martinez",
+        "age": 22,
+        "weight": 55,
+        "height": 160
+    },
+    {
+        "id": 6,
+        "name": "Frank Miller",
+        "age": 40,
+        "weight": 85,
+        "height": 180
+    },
+    {
+        "id": 7,
+        "name": "Grace Lee",
+        "age": 27,
+        "weight": 60,
+        "height": 168
+    },
+    {
+        "id": 8,
+        "name": "Henry Adams",
+        "age": 33,
+        "weight": 75,
+        "height": 172
+    },
+    {
+        "id": 9,
+        "name": "Isabella Clark",
+        "age": 26,
+        "weight": 62,
+        "height": 166
+    },
+    {
+        "id": 10,
+        "name": "Jack Lewis",
+        "age": 29,
+        "weight": 78,
+        "height": 181
+    }
+  
+]
