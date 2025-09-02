@@ -16,7 +16,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Fas
 
 ## Screenshots
 
-|  /home enpoint # 1 | Prediction # 2|
+|  /home enpoint | API CRUD Methods |
 |-----------|----------------|
 | ![image1](screenshots/fast1.png) |![image2](screenshots/fast2.png) 
 
