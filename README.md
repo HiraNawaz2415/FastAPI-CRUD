@@ -16,11 +16,11 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Fas
 
 ## Screenshots
 
-|  ****/home enpoint | **API CRUD Methods** |
+|  **/home enpoint** | **API CRUD Methods** |
 |-----------|----------------|
 | ![image1](screenshots/fast1.png) |![image2](screenshots/fast2.png) 
 |-----------|----------------|
-| ** /create enpoint** | **create msg** |
+| **/create enpoint** | **create msg** |
 |-----------|----------------|
 | ![image1](screenshots/fast3.png) |![image2](screenshots/fast4.png) 
 |-----------|----------------|
